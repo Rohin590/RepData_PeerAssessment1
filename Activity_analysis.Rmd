@@ -4,7 +4,9 @@ author: "Rohin"
 date: "3/14/2020"
 output: html_document
 ---
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 #  Reproducible Research: Peer Assessment 1
 ===========================================
