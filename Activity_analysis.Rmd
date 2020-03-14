@@ -3,10 +3,8 @@ title: "Activity analysis"
 author: "Rohin"
 date: "3/14/2020"
 output: html_document
+keep_md: true
 ---
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 #  Reproducible Research: Peer Assessment 1
 ===========================================
